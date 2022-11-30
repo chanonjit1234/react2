@@ -11,3 +11,11 @@ Download dependencies
 $cd demo01
 $npm install
 ```
+
+Build for deploy
+```
+$npm run build
+```
+
+Copy `./dist` to Static Web server
+
